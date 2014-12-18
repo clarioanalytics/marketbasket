@@ -4,7 +4,7 @@
  * Please feel free to use and modify this code in whatever manner      *
  * you deem appropriate. All Clario asks is that, in return, you share  *
  * valuable enhancements/efficiencies so that Clario can integrate and  *
- * continue sharing sharing them.                                       *
+ * continue sharing them.                                               *
  *----------------------------------------------------------------------*
  *  Macro Definitions:                                                  *
  *  Define lib, set, basket_dimension, and analysis_unit where 'lib'    *
